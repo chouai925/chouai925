@@ -1,14 +1,19 @@
 # Tien Ai Chou
 
-I'm a **second-year M.S. student** in Electrical Engineering at **National Chung Cheng University (CCU)**, Taiwan.
+I'm a **second-year M.S. student** in Electrical Engineering focusing on deep learning for signal & image processing at **National Chung Cheng University (CCU)**, Taiwan.
 
----
+## How to reach me
+✉️ Email: **choutienai@gmail.com**
+👔 LinkedIn: [Tien Ai Chou](https://www.linkedin.com/in/tien-ai-chou-25b192312/)
 
-## 📫 How to reach me
-- ✉️ Email: **choutienai@gmail.com**
-- 👔 LinkedIn: [Tien Ai Chou](https://www.linkedin.com/in/tien-ai-chou-25b192312/)
+## What I’m up to
+🔭 Currently building an EEG emotion recognizer for my thesis
+🌱 Learning C++ & embedded system
 
----
+## Tech Stack
+Python | C++ | Java | MATLAB | PHP
+
+HTML | CSS
 
 ## 🧑‍💻 Solo Projects
 *(Coming soon)*
@@ -17,9 +22,15 @@ I'm a **second-year M.S. student** in Electrical Engineering at **National Chung
 *(Coming soon)*
 
 ## 📈 GitHub Stats
-<!-- You can embed GitHub stats here once ready -->
 
-  
+<!-- 總體貢獻統計/連續貢獻 -->
+![Stats](https://github-readme-stats.vercel.app/api?username=chouai925&show_icons=true&cache_seconds=86400)
+![Streak](https://streak-stats.demolab.com?user=chouai925)
+
+<!-- 語言比例 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chouai925&layout=compact&hide=Jupyter%20Notebook)
+
+
 <!--
 **chouai925/chouai925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
