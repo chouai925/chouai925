@@ -1,19 +1,23 @@
-# [Tien Ai Chou]
+# Tien Ai Chou
 
-I'm a Second‑year M.S. student in Electrical Engineering at National Chung Cheng University (CCU), Taiwan.
+I'm a **second-year M.S. student** in Electrical Engineering at **National Chung Cheng University (CCU)**, Taiwan.
 
-## 📫 How to reach me
-- ✉️ Email: choutienai@gmail.com
-- [Tien Ai Chou]([https://www.linkedin.com/in/shawn-pereira/](https://www.linkedin.com/in/tien-ai-chou-25b192312/)) on LinkedIn
+---
 
-## 🧑‍💻 Solo Projects
+## 📫 How to reach me
+- ✉️ Email: **choutienai@gmail.com**
+- 👔 LinkedIn: [Tien Ai Chou](https://www.linkedin.com/in/tien-ai-chou-25b192312/)
 
+---
 
-## 🤝 Team Projects
+## 🧑‍💻 Solo Projects
+*(Coming soon)*
 
+## 🤝 Team Projects
+*(Coming soon)*
 
-## 📈 GitHub Stats
-
+## 📈 GitHub Stats
+<!-- You can embed GitHub stats here once ready -->
 
   
 <!--
